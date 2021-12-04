@@ -1,7 +1,7 @@
 # Juego-Ahorcado
 Clásico juego del ahorcado.
 
-# Donwload - Run
+# Download - Run
 1. Descargar el repositorio
 2. Visual Studio 2019 abrir carpeta local.
 3. En el Explorador de soluciones buscar la carpeta Juego ahorcado -> abrir archivo .cpp 
